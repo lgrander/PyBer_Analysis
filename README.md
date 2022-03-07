@@ -6,11 +6,12 @@ The purpose of this analysis was to disect the ride sharing data in order to det
 Utilizing  the key metrics we were easily able to compare total rides, drivers, and fares, as well as average fares per ride and per driver ralative to the city type.
 
 ### City Type Summary
-Several trend from the City Type Sumary can be deduced.For example in Urban cities: -Total rides, total fares, and total drivers all increased, likely due to the higher population -Average fare per ride and average fare per driver all decreased. We can tell that population has a positive corrilation to total rides, fares and drivers. Population has a negative corrilation to Average fare per ride and per driver. 
+Several trend from the City Type Sumary can be deduced.For example in Urban cities: -Total rides, total fares, and total drivers all increased, likely due to the higher population -Average fare per ride and average fare per driver all decreased. We can tell that population has a positive corrilation to total rides, fares and drivers. Population has a negative corrilation to Average fare per ride and per driver.
+![Summary_Key_Indicators](https://github.com/lgrander/PyBer_Analysis/blob/main/Summary_Key_Indicators.png)
 
 ### Weekly PyBer Fare Summary
 From the total weekly fares we can see that  dispite the higher ride fares in the rural areas the Urban total fares are significatly higher than the other city types.
-
+![Weekly_Total_Fares](https://github.com/lgrander/PyBer_Analysis/blob/main/Weekly_Total_Fares.png)
 ## Summary
 Considerations for business improvement
 
